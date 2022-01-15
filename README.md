@@ -3,7 +3,9 @@
 Translator_setup_x86
 
 Windows 2018 2022 ->
+
 Windows x86 va x64 
+
 Dastur hajmi 15 mb 
  
 Uzbek ingliz rus tillariga tarjimon dastur
